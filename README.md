@@ -1,4 +1,5 @@
 # Terraform AWS Apache2
+A simple Terraform file for spinning up an AWS EC2 Apache2 server.
 
 ## Prerequisites
 - Terraform
@@ -8,3 +9,6 @@
 ## Usage
 1. `aws config`
 2. `terraform apply`
+
+## Possible changes
+- Make more dynamic -> more variables
