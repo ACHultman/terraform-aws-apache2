@@ -12,3 +12,4 @@ A simple Terraform file for spinning up an AWS EC2 Apache2 server.
 
 ## Possible changes
 - Make more dynamic -> more variables
+- Env Vars for creds
