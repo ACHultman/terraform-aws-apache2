@@ -6,5 +6,5 @@
 - AWS account
 
 ## Usage
-1. aws config
-2. terraform apply
+1. `aws config`
+2. `terraform apply`
